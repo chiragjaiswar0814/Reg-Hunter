@@ -1,0 +1,2 @@
+# Reg-Hunter uses only the Python standard library (winreg, struct, codecs).
+# Python 3.10+ recommended.
