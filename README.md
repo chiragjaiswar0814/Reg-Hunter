@@ -33,7 +33,7 @@
 ## Installation
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/Reg-Hunter.git
+git clone https://github.com/chiragjaiswar0814/Reg-Hunter.git
 cd Reg-Hunter
 ```
 
